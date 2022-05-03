@@ -1,0 +1,64 @@
+
+@font-face {
+    font-family: "NNWM";
+    src:
+        url('../fonts/nnwm.woff') format('woff'),
+        url('../fonts/nnwm.woff2') format('woff2'),
+        url('https://site-admin.huami.com/file/index') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "NS-Light";
+    src:
+        url('https://site-cdn.huami.com/files/e/e/c/NotoSans-Regular.woff') format('woff'),
+        url('../fonts/notosans-regular.woff2') format('woff2'),
+        url('../fonts/notosans-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "NS-Bold";
+    src:
+        url('../fonts/notosans-bold.woff') format('woff'),
+        url('../fonts/notosans-bold.woff2') format('woff2'),
+        url('../fonts/notosans-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "NS-Medium";
+    src:
+        url('../fonts/notosans-medium.woff') format('woff'),
+        url('../fonts/notosans-medium.woff2') format('woff2'),
+        url('../fonts/notosans-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SY-Medium";
+    src:
+        url('../fonts/sy-medium.woff') format('woff'),
+        url('../fonts/sy-medium.woff2') format('woff2'),
+        url('../fonts/sy-medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SY-Light";
+    src:
+        url('../fonts/sy-light.woff') format('woff'),
+        url('../fonts/sy-light.woff2') format('woff2'),
+        url('../fonts/sy-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SY-Bold";
+    src:
+        url('../fonts/sy-bold.woff') format('woff'),
+        url('../fonts/sy-bold.woff2') format('woff2'),
+        url('../fonts/sy-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
